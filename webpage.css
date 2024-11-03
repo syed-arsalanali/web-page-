@@ -1,0 +1,57 @@
+div {
+    border: double;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding: 15px;
+  }
+  
+  ul {
+    width: 68%;
+    border-top: 3px solid black;
+    border-bottom: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+     }
+
+
+  li {
+    display: inline-block;
+    height: 8vh;  
+    align-content: center;
+    width: 160px;          
+  }
+
+  a {
+    
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    
+  }
+
+  .piano {
+    display: block;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    }
+
+  p {
+    font-family: serif monospace;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    width: 50%;
+    font-size: medium;
+    height: 10vh;
+    line-height: 4vh;
+    margin-left: auto;
+    margin-right: auto;
+      }  
